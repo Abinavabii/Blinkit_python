@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="1000"/>
+  <img src="bannerr.png" width="1000"/>
 </p>
 
 # 🛒 BlinkIt Sales Dashboard
